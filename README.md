@@ -9,6 +9,7 @@ For an embedded device that requires accurate timing, the choice of Python as a 
 
 # This should not be used as a primary or even secondary dive computer. :ok_hand:? . This project is merely a *science project*. Significant effort would be required to make this a reliable dive computer!
  
-If you would like to contribute or have any other questions, please contact me at m r m a r k g r a y _at_ g m a i l . c o m (no spaces).
+If you would like to contribute or have any other questions, please contact me.
 
-Mark Gray
+[Mark Gray](https://haldaneblog.wordpress.com/)
+
