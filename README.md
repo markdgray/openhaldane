@@ -7,7 +7,7 @@ The intention of this project is to open-source all aspects of the design includ
 
 For an embedded device that requires accurate timing, the choice of Python as a programming language may seem like a strange one. This choice was made as I want to improve my Python coding skills.
 
-# This should not be used as a primary or even secondary dive computer :ok_hand . This project is merely a *science project*. Significant effort would be required to make this a reliable dive computer!
+# This should not be used as a primary or even secondary dive computer. :ok_hand:? . This project is merely a *science project*. Significant effort would be required to make this a reliable dive computer!
  
 If you would like to contribute or have any other questions, please contact me at m r m a r k g r a y _at_ g m a i l . c o m (no spaces).
 
