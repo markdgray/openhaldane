@@ -114,7 +114,7 @@ class Buhlmann():
     def ndl(self):
          t = 0
          max_ceiling = 0
-         while max_ceiling <= 0:
+         while max_ceiling <= 0 and t < 100:
              max_ceiling = 0
              t = t + 1
              for compartment in self.compartments:
