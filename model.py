@@ -14,11 +14,11 @@ class Model(object):
         pass
 
     @abstractmethod
-    def getNDL(self):
+    def ndl(self, t):
         pass
 
     @abstractmethod
-    def reset(self):
+    def reset(self, P, t):
         pass
 
     @staticmethod
