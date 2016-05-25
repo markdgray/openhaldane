@@ -28,6 +28,7 @@ class Sleep():
 
     def wait(self):
         time.sleep(self.interval)
+        return True
 
 
 if __name__ == "__main__":
