@@ -14,7 +14,7 @@ class Model(object):
         pass
 
     @abstractmethod
-    def ndl(self, t):
+    def ndl(self):
         pass
 
     @abstractmethod
