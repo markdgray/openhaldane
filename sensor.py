@@ -82,10 +82,10 @@ class MS5803():
         return (TEMP, P)
 
     def getTemperature(self):
-        return self.__calc()[0]      
+        return self.__calc()[0]/100.0      
 
     def getPressure(self):
-        return self.__calc()[1]
+        return self.__calc()[1] / 10000.0
 
 
 
@@ -94,8 +94,8 @@ if __name__ == "__main__":
     print("Getting sensor values:")
     sensor = Sensor.factory("MS5803-14B")
     sensor.reset()
-    temp = sensor.getTemperature() / 100.0
+    temp = sensor.getTemperature()
     print("Temperature is ", str(temp), " deg celsius")
-    pressure = sensor.getPressure() / 10.0
-    print("Pressure is ", str(pressure), " mbar")
+    pressure = sensor.getPressure()
+    print("Pressure is ", str(pressure), " bar")
     
