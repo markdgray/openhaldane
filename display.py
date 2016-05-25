@@ -8,7 +8,7 @@ class Display(object):
     __metaclass__=ABCMeta
 
     @abstractmethod
-    def display(self, ndl, time, depth):
+    def display(self, ndl, time, depth, temp):
         pass
 
     @staticmethod
@@ -25,11 +25,11 @@ class Stdio():
     def __init__(self):
         pass 
 
-    def display(self, ndl, time, depth):
-        print("Time: \t", time, "min\nDepth: \t", depth, "m\nNDL: \t", ndl, "min")
+    def display(self, ndl, time, depth, temp):
+        print("Time: \t", time, "sec\nDepth: \t", depth, "m\nNDL: \t", ndl, "min\nTemp: \t", temp, "oC")
 
 if __name__ == "__main__":
     print("Test Display")
     print("---------------------")
     display = Display.factory("Stdio")
-    display.display(10,1,10)
+    display.display(10,1,10,273)
