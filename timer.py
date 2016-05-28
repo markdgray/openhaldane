@@ -1,6 +1,7 @@
 from abc import ABCMeta, abstractmethod
 import logging
 import time
+import pause
 
 logging.basicConfig()
 
@@ -22,12 +23,13 @@ class Sleep():
     """ Implementation of class Timer using a simple sleep command.
 
     """
-
     def __init__(self, interval):
         self.interval = interval 
+        self.last = int(time.time())
 
     def wait(self):
-        time.sleep(self.interval)
+        pause.until(self.last + self.interval)
+        self.last = int(time.time())
         return True
 
 
