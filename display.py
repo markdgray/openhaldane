@@ -14,6 +14,7 @@ class Display(object):
     @staticmethod
     def factory(type):
         if type == "Stdio": return Stdio()
+        if type == "Dummy": return Dummy()
         assert 0, "Bad display: " + type
 
 
@@ -28,6 +29,17 @@ class Stdio():
     def display(self, ndl, time, depth, temp):
         print("\x1B[2J")
         print("Time: \t", time, "sec\nDepth: \t", depth, "m\nNDL: \t", ndl, "min\nTemp: \t", "{:.1f}".format(temp) , "oC")
+
+class Dummy():
+    """ Dummy implementation of class Display.
+
+    """
+
+    def __init__(self):
+        pass 
+
+    def display(self, ndl, time, depth, temp):
+        pass
 
 if __name__ == "__main__":
     print("Test Display")
