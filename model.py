@@ -88,7 +88,7 @@ class Buhlmann():
            
     def __init__(self):
         self.logger = logging.getLogger('model(Buhlmann)')
-        self.logger.setLevel(logging.DEBUG)
+        self.logger.setLevel(logging.ERROR)
         self.compartments = list()
         self.compartments.append(self.Compartment(4,     1.2599, 0.5050, self.logger))
         self.compartments.append(self.Compartment(8,     1.0000, 0.6514, self.logger))

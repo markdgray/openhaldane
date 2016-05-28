@@ -37,7 +37,7 @@ class MS5803():
     """
     def __init__(self):
         self.logger = logging.getLogger('sensor(MS5803)')
-        self.logger.setLevel(logging.DEBUG)
+        self.logger.setLevel(logging.ERROR)
         self.bus = i2c.I2CMaster(1)
         self.address = 0x77
         self.C = [0 for i in range(7)]
