@@ -24,7 +24,9 @@ class Sensor(object):
     @staticmethod
     def factory(type):
         if type == "MS5803-14B": return MS5803()
+        if type == "Dummy": return Dummy()
         assert 0, "Bad sensor type: " + type
+
 
 
 class MS5803():
@@ -88,6 +90,38 @@ class MS5803():
         return self.__calc()[1] / 10000.0
 
 
+class Dummy():
+    """ Dummy implementation of class Sensor.
+
+        Implementation of abstract base class Sensor that collects a dive
+        profile by reading from a file.
+
+    """
+
+    def __init__(self):
+        self.logger = logging.getLogger('sensor(Dummy)')
+        self.logger.setLevel(logging.ERROR)
+        self.f = open("data.dat", 'r')
+        self.__readline()
+
+    def reset(self):
+        self.f.seek(0)
+
+    def __readline(self):
+        self.line = self.f.readline()
+        self.readPres = False
+        self.readTemp = False
+        
+
+    def getTemperature(self):
+        if self.readTemp == True: self.__readline()
+        self.readTemp = True 
+        return float(self.line.split(',')[1])
+
+    def getPressure(self):
+        if self.readPres == True: self.__readline()
+        self.readPres = True 
+        return float(self.line.split(',')[0]) / 10 + 1.013 
 
 
 if __name__ == "__main__":
