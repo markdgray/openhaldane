@@ -23,7 +23,6 @@ def main():
         temp = sensor.getTemperature()
         pres = sensor.getPressure()  
         current_time = int(time.time()) - start_time
-        print(current_time)
         depth = (pres - 1.013) * 10
         if depth < 0: depth = 0
 
