@@ -6,11 +6,11 @@ from model import *
 import time
 
 def main():
-#    sensor = Sensor.factory("MS5803-14B")
-    sensor = Sensor.factory("Dummy")
+    sensor = Sensor.factory("MS5803-14B")
+#    sensor = Sensor.factory("Dummy")
     model = Model.factory("Buhlmann")
-    timer = Timer.factory("Dummy", 60)
-    display = Display.factory("Stdio")
+    timer = Timer.factory("Sleep", 1)
+    display = Display.factory("Serial")
 
     ambient = 1.013
     print("- Starting Haldane -")
