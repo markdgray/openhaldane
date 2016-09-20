@@ -11,5 +11,5 @@ For an embedded device that requires accurate timing, the choice of Python as a 
  
 If you would like to contribute or have any other questions, please contact me.
 
-[Mark Gray](https://haldaneblog.wordpress.com/)
+[Mark Gray](https://openhaldane.wordpress.com/)
 
