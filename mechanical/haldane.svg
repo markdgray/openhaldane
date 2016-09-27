@@ -5,27 +5,11 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2834.6 1729.1"
 	 style="enable-background:new 0 0 2834.6 1729.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#FF00FF;stroke-width:5.900982e-02;}
-	.st1{fill:#FFFFFF;stroke:#FF00FF;stroke-width:3.562523e-02;}
-	.st2{fill:#FFFFFF;stroke:#FF00FF;stroke-width:5.710628e-02;}
-	.st3{fill:#FFFFFF;stroke:#FF00FF;stroke-width:9.128796e-02;}
-	.st4{fill:#FFFFFF;stroke:#FF0000;stroke-width:7.058349e-02;}
-	.st5{fill:#FFFFFF;stroke:#FF00FF;stroke-width:3.636976e-02;}
-	.st6{fill:#FFFFFF;stroke:#FF00FF;stroke-width:7.870275e-02;}
-	.st7{fill:#FFFFFF;stroke:#FF0000;stroke-width:4.609975e-02;}
-	.st8{font-family:'Arial-BoldMT';}
-	.st9{font-size:32px;}
-	.st10{font-size:20px;}
-	.st11{fill:#FFFFFF;stroke:#FF00FF;stroke-width:8.247262e-02;}
-	.st12{fill:#FFFFFF;stroke:#FF00FF;stroke-width:0.11;}
-	.st13{fill:#FFFFFF;stroke:#FF00FF;stroke-width:6.028748e-02;}
-	.st14{fill:#FFFFFF;stroke:#FF00FF;stroke-width:4.438589e-02;}
-	.st15{fill:#FFFFFF;stroke:#FF00FF;stroke-width:5.900000e-02;}
-	.st16{fill:#FFFFFF;stroke:#FF00FF;stroke-width:0.1335;}
-	.st17{fill:#FFFFFF;stroke:#FF00FF;stroke-width:0.1151;}
-	.st18{fill:#FFFFFF;stroke:#FF00FF;stroke-width:0.1097;}
-	.st19{fill:#FFFFFF;stroke:#FF00FF;stroke-width:0.1084;}
-	.st20{fill:#FFFFFF;stroke:#FF00FF;stroke-width:6.206857e-02;}
+	.st0{fill:#FFFFFF;stroke:#FF00FF;stroke-width:1.000000e-03;}
+	.st1{fill:#FFFFFF;stroke:#FF0000;stroke-width:1.000000e-03;}
+	.st2{font-family:'Arial-BoldMT';}
+	.st3{font-size:32px;}
+	.st4{font-size:20px;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview91444" inkscape:current-layer="svg2" inkscape:cx="1883.8816" inkscape:cy="1471.5605" inkscape:document-units="mm" inkscape:object-nodes="true" inkscape:object-paths="true" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-center="true" inkscape:snap-intersection-paths="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-page="true" inkscape:snap-smooth-nodes="true" inkscape:window-height="847" inkscape:window-maximized="1" inkscape:window-width="1600" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.5" objecttolerance="10" pagecolor="#ffffff" showgrid="true" showguides="false" units="mm">
 	</sodipodi:namedview>
@@ -37,159 +21,161 @@
 </defs>
 <g id="g5072-4" transform="translate(130.702,-11.113443)">
 	<ellipse id="path5068-7" class="st0" cx="508.4" cy="235.4" rx="197.6" ry="197.6"/>
-	<circle id="path5070-0" class="st1" cx="508.4" cy="235.4" r="8.5"/>
+	<circle id="path5070-0" class="st0" cx="508.4" cy="235.4" r="8.5"/>
 </g>
 <g id="g5503" transform="translate(-8.1488677,-15.90919)">
 	<ellipse id="path5068-73" class="st0" cx="663.4" cy="653.5" rx="197.6" ry="197.6"/>
-	<path id="path5070-2" inkscape:connector-curvature="0" class="st1" d="M663.4,645.1c-4.7,0-8.5,3.8-8.5,8.5c0,0,0,0,0,0
+	<path id="path5070-2" inkscape:connector-curvature="0" class="st0" d="M663.4,645.1c-4.7,0-8.5,3.8-8.5,8.5c0,0,0,0,0,0
 		c0,4.7,3.8,8.5,8.5,8.5c0.2,0,0.5,0,0.7,0H776c0.2,0,0.4,0,0.7,0c4.7,0,8.5-3.8,8.5-8.5c0-4.7-3.8-8.5-8.5-8.5c0,0,0,0,0,0
 		c-0.2,0-0.5,0-0.7,0H664.1C663.9,645.1,663.7,645.1,663.4,645.1L663.4,645.1z"/>
 </g>
 <g id="g5140" transform="translate(-10.776308,-19.557004)">
-	<circle id="path5068-7-8" class="st2" cx="1061.1" cy="244.1" r="191.3"/>
-	<circle id="path5070-0-6" class="st1" cx="1061.1" cy="244.1" r="8.5"/>
+	<circle id="path5068-7-8" class="st0" cx="1061.1" cy="244.1" r="191.3"/>
+	<circle id="path5070-0-6" class="st0" cx="1061.1" cy="244.1" r="8.5"/>
 </g>
 <g id="g5381" transform="translate(-443.7037,276.5778)">
 	<g id="g5338" transform="translate(9.8577204,-1.9956126)">
-		<circle id="path5183" class="st3" cx="734.3" cy="870.5" r="274.8"/>
-		<circle id="path5183-4" class="st4" cx="734.3" cy="870.5" r="212.5"/>
-		<rect id="rect5200" x="519.8" y="951.6" class="st5" width="14.1" height="70.8"/>
-		<rect id="rect5200-7" x="516.2" y="725.6" class="st5" width="14.1" height="70.8"/>
-		<rect id="rect5200-7-7" x="936.7" y="725.6" class="st5" width="14.1" height="70.8"/>
-		<rect id="rect5200-5" x="933.9" y="951.6" class="st5" width="14.1" height="70.8"/>
-		<ellipse id="path5247" class="st6" cx="734.3" cy="645" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8" class="st6" cx="734.3" cy="1096" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8-0" class="st6" cx="508.8" cy="870.5" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8-0-5" class="st6" cx="959.8" cy="870.5" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8-0-5-9" class="st6" cx="909.3" cy="727.7" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8-0-5-9-1" class="st6" cx="878.1" cy="1045.3" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8-0-5-9-2" class="st6" cx="590.2" cy="1043" rx="9.8" ry="9.8"/>
-		<ellipse id="path5247-8-0-5-9-27" class="st6" cx="588.3" cy="699.4" rx="9.8" ry="9.8"/>
-		<circle id="path5336" class="st7" cx="734.3" cy="870.5" r="8.4"/>
+		<circle id="path5183" class="st0" cx="734.3" cy="870.5" r="274.8"/>
+		<path id="path5183-4" class="st1" d="M734.3,658c117.4,0,212.5,95.1,212.5,212.5S835.6,1083,734.3,1083
+			c-117.4,0-212.5-95.1-212.5-212.5S616.9,658,734.3,658z"/>
+		<rect id="rect5200" x="519.8" y="951.6" class="st0" width="14.1" height="70.8"/>
+		<rect id="rect5200-7" x="516.2" y="725.6" class="st0" width="14.1" height="70.8"/>
+		<rect id="rect5200-7-7" x="936.7" y="725.6" class="st0" width="14.1" height="70.8"/>
+		<rect id="rect5200-5" x="933.9" y="951.6" class="st0" width="14.1" height="70.8"/>
+		<ellipse id="path5247" class="st0" cx="734.3" cy="645" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8" class="st0" cx="734.3" cy="1096" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8-0" class="st0" cx="508.8" cy="870.5" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8-0-5" class="st0" cx="959.8" cy="870.5" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8-0-5-9" class="st0" cx="909.3" cy="727.7" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8-0-5-9-1" class="st0" cx="878.1" cy="1045.3" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8-0-5-9-2" class="st0" cx="590.2" cy="1043" rx="9.8" ry="9.8"/>
+		<ellipse id="path5247-8-0-5-9-27" class="st0" cx="588.3" cy="699.4" rx="9.8" ry="9.8"/>
+		<circle id="path5336" class="st1" cx="734.3" cy="870.5" r="8.4"/>
 	</g>
-	<text transform="matrix(1 0 0 1 705.733 680.4056)" class="st8 st9">open</text>
-	<text transform="matrix(1 0 0 1 683.4908 720.4056)" class="st8 st9">haldane</text>
-	<text transform="matrix(1 0 0 1 700.4518 1046.9545)" class="st8 st10">scuba dive</text>
-	<text transform="matrix(1 0 0 1 706.5797 1071.9545)" class="st8 st10">computer</text>
+	<text transform="matrix(1 0 0 1 705.733 680.4056)" class="st2 st3">open</text>
+	<text transform="matrix(1 0 0 1 683.4908 720.4056)" class="st2 st3">haldane</text>
+	<text transform="matrix(1 0 0 1 700.4518 1046.9545)" class="st2 st4">scuba dive</text>
+	<text transform="matrix(1 0 0 1 706.5797 1071.9545)" class="st2 st4">computer</text>
 </g>
 <g id="g4335" transform="translate(-231.98668,78.457784)">
 	<g id="g5381-5" transform="translate(-1.6939512,202.44077)">
 		<g id="g5338-0" transform="translate(9.8577204,-1.9956126)">
-			<circle id="path5183-6" class="st3" cx="1119.6" cy="878.4" r="274.8"/>
-			<circle id="path5183-4-1" class="st4" cx="1119.6" cy="878.4" r="212.5"/>
-			<rect id="rect5200-4" x="905.1" y="959.5" class="st5" width="14.1" height="70.8"/>
-			<rect id="rect5200-7-6" x="901.5" y="733.5" class="st5" width="14.1" height="70.8"/>
-			<rect id="rect5200-7-7-1" x="1322" y="733.5" class="st5" width="14.1" height="70.8"/>
-			<rect id="rect5200-5-6" x="1319.2" y="959.5" class="st5" width="14.1" height="70.8"/>
-			<ellipse id="path5247-87" class="st6" cx="1119.6" cy="652.9" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-9" class="st6" cx="1119.6" cy="1103.9" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-0-4" class="st6" cx="894.1" cy="878.4" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-0-5-0" class="st6" cx="1345.1" cy="878.4" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-0-5-9-9" class="st6" cx="1294.7" cy="735.7" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-0-5-9-1-3" class="st6" cx="1263.5" cy="1053.2" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-0-5-9-2-2" class="st6" cx="975.5" cy="1050.9" rx="9.8" ry="9.8"/>
-			<ellipse id="path5247-8-0-5-9-27-9" class="st6" cx="973.6" cy="707.3" rx="9.8" ry="9.8"/>
-			<circle id="path5336-8" class="st7" cx="1119.6" cy="878.4" r="8.4"/>
+			<circle id="path5183-6" class="st0" cx="1119.6" cy="878.4" r="274.8"/>
+			<circle id="path5183-4-1" class="st1" cx="1119.6" cy="878.4" r="212.5"/>
+			<rect id="rect5200-4" x="905.1" y="959.5" class="st0" width="14.1" height="70.8"/>
+			<rect id="rect5200-7-6" x="901.5" y="733.5" class="st0" width="14.1" height="70.8"/>
+			<rect id="rect5200-7-7-1" x="1322" y="733.5" class="st0" width="14.1" height="70.8"/>
+			<rect id="rect5200-5-6" x="1319.2" y="959.5" class="st0" width="14.1" height="70.8"/>
+			<ellipse id="path5247-87" class="st0" cx="1119.6" cy="652.9" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-9" class="st0" cx="1119.6" cy="1103.9" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-0-4" class="st0" cx="894.1" cy="878.4" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-0-5-0" class="st0" cx="1345.1" cy="878.4" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-0-5-9-9" class="st0" cx="1294.7" cy="735.7" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-0-5-9-1-3" class="st0" cx="1263.5" cy="1053.2" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-0-5-9-2-2" class="st0" cx="975.5" cy="1050.9" rx="9.8" ry="9.8"/>
+			<ellipse id="path5247-8-0-5-9-27-9" class="st0" cx="973.6" cy="707.3" rx="9.8" ry="9.8"/>
+			<path id="path5336-8" class="st1" d="M1119.6,870c4.7,0,8.4,3.8,8.4,8.4s-3.8,8.4-8.4,8.4s0.6-3.8,0.6-8.4S1114.9,870,1119.6,870
+				z"/>
 		</g>
 	</g>
-	<circle id="path5508" class="st11" cx="1241" cy="1078.9" r="8.4"/>
+	<circle id="path5508" class="st0" cx="1241" cy="1078.9" r="8.4"/>
 </g>
-<path id="rect4282" inkscape:connector-curvature="0" class="st12" d="M1016.6,590.7v14.2h-14.2v70.8h14.2v14.2h70.8v-14.2h14.2
+<path id="rect4282" inkscape:connector-curvature="0" class="st0" d="M1016.6,590.7v14.2h-14.2v70.8h14.2v14.2h70.8v-14.2h14.2
 	v-70.8h-14.2v-14.2H1016.6z"/>
 <g id="g4498" transform="translate(-362.37336,-45.155555)">
-	<path id="rect4367-4" inkscape:connector-curvature="0" class="st13" d="M1480.3,633.4v14h14.2v71h-14.2v14h42.4v-14v-0.1h14.2
+	<path id="rect4367-4" inkscape:connector-curvature="0" class="st0" d="M1480.3,633.4v14h14.2v71h-14.2v14h42.4v-14v-0.1h14.2
 		v-70.9h-14.2v-0.1v-14h-28.2L1480.3,633.4L1480.3,633.4z"/>
-	<circle id="path4365-6" class="st14" cx="1524.5" cy="682.9" r="9.1"/>
+	<circle id="path4365-6" class="st0" cx="1524.5" cy="682.9" r="9.1"/>
 </g>
 <g id="g4546" transform="translate(-362.37336,-45.155555)">
-	<path id="rect4408" inkscape:connector-curvature="0" class="st15" d="M1367.7,583.9v14.2h14.2v28.3h70.9v-28.3h14.2v-14.2h-14.2
+	<path id="rect4408" inkscape:connector-curvature="0" class="st0" d="M1367.7,583.9v14.2h14.2v28.3h70.9v-28.3h14.2v-14.2h-14.2
 		h-70.9H1367.7z"/>
-	<rect id="rect4477" x="1396.7" y="591.7" class="st16" width="42.1" height="7"/>
+	<rect id="rect4477" x="1396.7" y="591.7" class="st0" width="42.1" height="7"/>
 </g>
 <g id="g4498-7" transform="matrix(-1,0,0,1,1102.0072,-44.556875)">
-	<path id="rect4367-4-8" inkscape:connector-curvature="0" class="st13" d="M123.3,634.5v14h14.2v71h-14.2v14h42.4v-14v-0.1h14.2
+	<path id="rect4367-4-8" inkscape:connector-curvature="0" class="st0" d="M123.3,634.5v14h14.2v71h-14.2v14h42.4v-14v-0.1h14.2
 		v-70.9h-14.2v-0.1v-14h-28.2L123.3,634.5L123.3,634.5z"/>
-	<circle id="path4365-6-6" class="st14" cx="167.5" cy="684" r="9.1"/>
+	<circle id="path4365-6-6" class="st0" cx="167.5" cy="684" r="9.1"/>
 </g>
 <g id="g4546-6" transform="matrix(1,0,0,-1,-363.11041,498.24844)">
-	<path id="rect4408-8" inkscape:connector-curvature="0" class="st15" d="M1366.3-247.3v14.2h14.2v28.3h70.9v-28.3h14.2v-14.2h-14.2
+	<path id="rect4408-8" inkscape:connector-curvature="0" class="st0" d="M1366.3-247.3v14.2h14.2v28.3h70.9v-28.3h14.2v-14.2h-14.2
 		h-70.9H1366.3z"/>
-	<rect id="rect4477-1" x="1395.4" y="-232.5" class="st16" width="42.1" height="-7"/>
+	<rect id="rect4477-1" x="1395.4" y="-232.5" class="st0" width="42.1" height="-7"/>
 </g>
-<path id="rect4368" inkscape:connector-curvature="0" class="st17" d="M1286.4,700.1v42.5h14.2h42.5v-14.2h14.2v14.2h184.3v-14.2
+<path id="rect4368" inkscape:connector-curvature="0" class="st0" d="M1286.4,700.1v42.5h14.2h42.5v-14.2h14.2v14.2h184.3v-14.2
 	h14.2v14.2h39.4h14.2v-28.3v-14.2h-14.2v14.2h-294.5v-14.2L1286.4,700.1L1286.4,700.1z"/>
-<path id="rect4368-8" inkscape:connector-curvature="0" class="st17" d="M1287.8,612.6v42.5h14.2h42.5v-14.2h14.2v14.2h184.3v-14.2
+<path id="rect4368-8" inkscape:connector-curvature="0" class="st0" d="M1287.8,612.6v42.5h14.2h42.5v-14.2h14.2v14.2h184.3v-14.2
 	h14.2v14.2h39.4h14.2v-28.3v-14.2h-14.2v14.2H1302v-14.2H1287.8L1287.8,612.6z"/>
-<path id="rect4472" inkscape:connector-curvature="0" class="st18" d="M1308.6,804.9v84.7v11.1h11.1v-11.1H1575v11.1h11.1v-11.1
+<path id="rect4472" inkscape:connector-curvature="0" class="st0" d="M1308.6,804.9v84.7v11.1h11.1v-11.1H1575v11.1h11.1v-11.1
 	v-84.7h-14.3v70.4h-249v-70.4H1308.6L1308.6,804.9z"/>
-<path id="rect4472-0" inkscape:connector-curvature="0" class="st18" d="M1312.5,959.2v84.7v11.1h11.1v-11.1h255.3v11.1h11.1v-11.1
+<path id="rect4472-0" inkscape:connector-curvature="0" class="st0" d="M1312.5,959.2v84.7v11.1h11.1v-11.1h255.3v11.1h11.1v-11.1
 	v-84.7h-14.3v70.4h-249v-70.4H1312.5L1312.5,959.2z"/>
 <g id="g4781" transform="translate(-11.574553,-90.999935)">
 	<g id="g5072-6" transform="translate(-6.4044263e-8,225.00002)">
 		<ellipse id="path5068-8" class="st0" cx="247.3" cy="501.7" rx="197.6" ry="197.6"/>
-		<circle id="path5070-4" class="st1" cx="247.3" cy="501.7" r="8.5"/>
+		<circle id="path5070-4" class="st0" cx="247.3" cy="501.7" r="8.5"/>
 	</g>
 	<g id="g4704" transform="translate(-446.00002,-195.00003)">
 		<g id="g4714">
-			<rect id="rect4610" x="578" y="1034.5" class="st19" width="16.7" height="28"/>
-			<rect id="rect4610-7" x="578" y="779.4" class="st19" width="16.7" height="28"/>
-			<rect id="rect4610-7-0" x="790.6" y="1034.5" class="st19" width="16.7" height="28"/>
-			<rect id="rect4610-7-0-8" x="790.6" y="779.4" class="st19" width="16.7" height="28"/>
-			<rect id="rect4657" x="549.6" y="960.5" class="st12" width="17" height="17"/>
-			<rect id="rect4657-6" x="810.4" y="960.5" class="st12" width="17" height="17"/>
-			<rect id="rect4657-6-9" x="810.4" y="847.1" class="st12" width="17" height="17"/>
-			<rect id="rect4657-6-9-1" x="549.6" y="847.1" class="st12" width="17" height="17"/>
+			<rect id="rect4610" x="578" y="1034.5" class="st0" width="16.7" height="28"/>
+			<rect id="rect4610-7" x="578" y="779.4" class="st0" width="16.7" height="28"/>
+			<rect id="rect4610-7-0" x="790.6" y="1034.5" class="st0" width="16.7" height="28"/>
+			<rect id="rect4610-7-0-8" x="790.6" y="779.4" class="st0" width="16.7" height="28"/>
+			<rect id="rect4657" x="549.6" y="960.5" class="st0" width="17" height="17"/>
+			<rect id="rect4657-6" x="810.4" y="960.5" class="st0" width="17" height="17"/>
+			<rect id="rect4657-6-9" x="810.4" y="847.1" class="st0" width="17" height="17"/>
+			<rect id="rect4657-6-9-1" x="549.6" y="847.1" class="st0" width="17" height="17"/>
 		</g>
 	</g>
 </g>
 <g id="g4766" transform="translate(-15.565778,-36.719272)">
 	<g id="g5072" transform="translate(-6.4044268e-8,25.000004)">
 		<ellipse id="path5068" class="st0" cx="240" cy="234.3" rx="197.6" ry="197.6"/>
-		<circle id="path5070" class="st1" cx="240" cy="234.3" r="8.5"/>
+		<circle id="path5070" class="st0" cx="240" cy="234.3" r="8.5"/>
 	</g>
 	<g id="g4704-8" transform="translate(-446.00002,-395.00004)">
 		<g id="g4714-3">
-			<rect id="rect4610-3" x="570.7" y="767.2" class="st19" width="16.7" height="28"/>
-			<rect id="rect4610-7-9" x="570.7" y="512" class="st19" width="16.7" height="28"/>
-			<rect id="rect4610-7-0-5" x="783.3" y="767.2" class="st19" width="16.7" height="28"/>
-			<rect id="rect4610-7-0-8-5" x="783.3" y="512" class="st19" width="16.7" height="28"/>
-			<rect id="rect4657-7" x="542.3" y="693.1" class="st12" width="17" height="17"/>
-			<rect id="rect4657-6-7" x="803.1" y="693.1" class="st12" width="17" height="17"/>
-			<rect id="rect4657-6-9-2" x="803.1" y="579.8" class="st12" width="17" height="17"/>
-			<rect id="rect4657-6-9-1-8" x="542.3" y="579.8" class="st12" width="17" height="17"/>
+			<rect id="rect4610-3" x="570.7" y="767.2" class="st0" width="16.7" height="28"/>
+			<rect id="rect4610-7-9" x="570.7" y="512" class="st0" width="16.7" height="28"/>
+			<rect id="rect4610-7-0-5" x="783.3" y="767.2" class="st0" width="16.7" height="28"/>
+			<rect id="rect4610-7-0-8-5" x="783.3" y="512" class="st0" width="16.7" height="28"/>
+			<rect id="rect4657-7" x="542.3" y="693.1" class="st0" width="17" height="17"/>
+			<rect id="rect4657-6-7" x="803.1" y="693.1" class="st0" width="17" height="17"/>
+			<rect id="rect4657-6-9-2" x="803.1" y="579.8" class="st0" width="17" height="17"/>
+			<rect id="rect4657-6-9-1-8" x="542.3" y="579.8" class="st0" width="17" height="17"/>
 		</g>
 	</g>
 </g>
 <g id="g4456" transform="translate(-300.00225,-302.54224)">
-	<path id="rect4340" inkscape:connector-curvature="0" class="st12" d="M1598.9,363.6v11.3v212.6v11.3h25.5v-11.3h34.2v-79.1h164.1
+	<path id="rect4340" inkscape:connector-curvature="0" class="st0" d="M1598.9,363.6v11.3v212.6v11.3h25.5v-11.3h34.2v-79.1h164.1
 		v79.1h34.2v11.3h25.5v-11.3V374.9v-11.3h-25.5v11.3h-64v42h-13.9v-14.2h-76.5v14.2h-13.9v-42h-64v-11.3H1598.9z"/>
-	<rect id="rect4523-6-2" x="1625.4" y="426.8" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6" x="1665.7" y="426.8" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-3" x="1827.1" y="467.2" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-2" x="1786.8" y="467.2" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-6" x="1746.4" y="467.2" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-7" x="1706.1" y="467.2" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-61" x="1665.7" y="467.2" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-4" x="1625.4" y="467.2" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-8" x="1827.1" y="426.8" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-73" x="1786.8" y="426.8" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-9" x="1746.4" y="426.8" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-91" x="1706.1" y="426.8" class="st20" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2" x="1625.4" y="426.8" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6" x="1665.7" y="426.8" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-3" x="1827.1" y="467.2" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-2" x="1786.8" y="467.2" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-6" x="1746.4" y="467.2" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-7" x="1706.1" y="467.2" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-61" x="1665.7" y="467.2" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-4" x="1625.4" y="467.2" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-8" x="1827.1" y="426.8" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-73" x="1786.8" y="426.8" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-9" x="1746.4" y="426.8" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-91" x="1706.1" y="426.8" class="st0" width="28.2" height="28.2"/>
 </g>
 <g id="g4456-2" transform="translate(-300.23262,-213.06422)">
-	<path id="rect4340-1" inkscape:connector-curvature="0" class="st12" d="M1598.5,527.8v11.3v212.6V763h25.5v-11.3h34.2v-79.1h164.1
+	<path id="rect4340-1" inkscape:connector-curvature="0" class="st0" d="M1598.5,527.8v11.3v212.6V763h25.5v-11.3h34.2v-79.1h164.1
 		v79.1h34.2V763h25.5v-11.3V539.1v-11.3h-25.5v11.3h-64v42h-13.9v-14.2H1702v14.2h-13.9v-42h-64v-11.3H1598.5z"/>
-	<rect id="rect4523-6-2-97" x="1625" y="591" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-1" x="1665.3" y="591" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-3-2" x="1826.7" y="631.3" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-2-8" x="1786.4" y="631.3" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-6-9" x="1746" y="631.3" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-7-6" x="1705.7" y="631.3" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-61-8" x="1665.3" y="631.3" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-4-7" x="1625" y="631.3" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-8-6" x="1826.7" y="591" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-73-0" x="1786.4" y="591" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-9-1" x="1746" y="591" class="st20" width="28.2" height="28.2"/>
-	<rect id="rect4523-6-2-91-6" x="1705.7" y="591" class="st20" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-97" x="1625" y="591" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-1" x="1665.3" y="591" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-3-2" x="1826.7" y="631.3" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-2-8" x="1786.4" y="631.3" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-6-9" x="1746" y="631.3" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-7-6" x="1705.7" y="631.3" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-61-8" x="1665.3" y="631.3" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-4-7" x="1625" y="631.3" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-8-6" x="1826.7" y="591" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-73-0" x="1786.4" y="591" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-9-1" x="1746" y="591" class="st0" width="28.2" height="28.2"/>
+	<rect id="rect4523-6-2-91-6" x="1705.7" y="591" class="st0" width="28.2" height="28.2"/>
 </g>
 </svg>
