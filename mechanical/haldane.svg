@@ -13,6 +13,7 @@
 	.st5{font-size:20px;}
 	.st6{fill:#FFFFFF;}
 	.st7{fill:none;stroke:#FF00FF;stroke-width:1.000000e-03;}
+	.st8{fill:#FFFFFF;stroke:#FF00FF;stroke-width:1.000000e-03;stroke-miterlimit:10;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview91444" inkscape:current-layer="svg2" inkscape:cx="1883.8816" inkscape:cy="1471.5605" inkscape:document-units="mm" inkscape:object-nodes="true" inkscape:object-paths="true" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-center="true" inkscape:snap-intersection-paths="true" inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-page="true" inkscape:snap-smooth-nodes="true" inkscape:window-height="847" inkscape:window-maximized="1" inkscape:window-width="1600" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.5" objecttolerance="10" pagecolor="#ffffff" showgrid="true" showguides="false" units="mm">
 	</sodipodi:namedview>
@@ -181,11 +182,11 @@
 </g>
 <g>
 	<g>
-		<path class="st6" d="M1553.5,876.2v26.4h-14.2v-26.4h-184.1v26.4h-14.2v-26.4h-32.2v14.2v6.3v7.9v76.8v11.1h11.1v-11.1h255.3v11.1
+		<path class="st6" d="M1553.5,876.2v26.4h-14.2v-26.4h-184.1v26.4H1341v-26.4h-32.2v14.2v6.3v7.9v76.8v11.1h11.1v-11.1h255.3v11.1
 			h11.1v-11.1v-76.8v-7.9v-6.3v-14.2H1553.5z M1572.1,967.1h-249v-62.5h249V967.1z"/>
 	</g>
 	<g>
-		<path class="st7" d="M1553.5,876.2v26.4h-14.2v-26.4h-184.1v26.4h-14.2v-26.4h-32.2v14.2v6.3v7.9v76.8v11.1h11.1v-11.1h255.3v11.1
+		<path class="st7" d="M1553.5,876.2v26.4h-14.2v-26.4h-184.1v26.4H1341v-26.4h-32.2v14.2v6.3v7.9v76.8v11.1h11.1v-11.1h255.3v11.1
 			h11.1v-11.1v-76.8v-7.9v-6.3v-14.2H1553.5z M1572.1,967.1h-249v-62.5h249V967.1z"/>
 	</g>
 </g>
@@ -206,4 +207,12 @@
 <circle id="path4365-6_2_" class="st0" cx="1192.9" cy="620.7" r="9.1"/>
 <rect x="1324.8" y="1140.1" class="st0" width="189.6" height="11.9"/>
 <rect x="1324.8" y="1191.7" class="st0" width="189.6" height="11.9"/>
+<circle class="st8" cx="1857.8" cy="701.5" r="110.8"/>
+<circle class="st8" cx="1857.8" cy="699.8" r="10.5"/>
+<circle class="st8" cx="1736.5" cy="950.9" r="110.8"/>
+<circle class="st8" cx="1736.5" cy="949.2" r="10.5"/>
+<circle class="st8" cx="2011.8" cy="935.8" r="110.8"/>
+<circle class="st8" cx="2011.8" cy="934.1" r="10.5"/>
+<circle class="st8" cx="1894.8" cy="1152" r="110.8"/>
+<circle class="st8" cx="1894.8" cy="1150.3" r="10.5"/>
 </svg>
